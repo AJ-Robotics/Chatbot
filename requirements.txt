@@ -1,6 +1,9 @@
 streamlit
 requests
-python-dotenv
-PyPDF2
 faiss-cpu
+PyPDF2
 sentence-transformers
+openpyxl
+pandas
+playsound==1.2.2
+python-dotenv
